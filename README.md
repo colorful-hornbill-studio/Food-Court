@@ -28,8 +28,9 @@ Simple cashier dekstop application built using Java.
 
 ### Usage
 
-1. Open folder named ```dist```
-2. Double click at file ```MenuMakanan.jar```
+1. Open folder named ```MenuMakanan```
+2. Open folder named ```dist```
+3. Double click at file ```MenuMakanan.jar```
 
 ## Credits
 
