@@ -33,7 +33,7 @@ Simple cashier dekstop application built using Java.
 2. Open folder named ```dist```
 3. Double click at file ```MenuMakanan.jar```
 
-## Screenshots
+### Screenshots
 
 ![food-court](https://justanaivedreamer.files.wordpress.com/2018/12/food-court.png)
 
