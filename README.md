@@ -12,7 +12,8 @@ Simple cashier dekstop application built using Java.
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
    - [Usage](#usage)
-   - [Screenshots](#screenshots)
+   - [Previews](#previews)
+     - [Screenshots](#screenshots)
 4. [Credits](#credits)
 5. [License](#license)
 
@@ -20,7 +21,9 @@ Simple cashier dekstop application built using Java.
 
 ### Prerequisites
 
-1. JRE 1.8.0
+1. NetBeans IDE 8
+2. JDK 8
+3. JRE 8
 
 ### Installation 
 
@@ -33,7 +36,9 @@ Simple cashier dekstop application built using Java.
 2. Open folder named ```dist```
 3. Double click at file ```MenuMakanan.jar```
 
-### Screenshots
+### Previews
+
+#### Screenshots
 
 ![food-court](https://justanaivedreamer.files.wordpress.com/2018/12/food-court.png)
 
