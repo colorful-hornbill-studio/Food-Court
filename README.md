@@ -9,7 +9,7 @@ Simple cashier desktop application built using Java.
 1. [Description](#description)
 2. [Table of Contents](#table-of-contents)
 3. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
+   - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
    - [Screenshots](#screenshots)
@@ -18,7 +18,7 @@ Simple cashier desktop application built using Java.
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 1. NetBeans IDE 8
 2. JDK 8
